@@ -8,6 +8,8 @@ cffi==1.14.0
 channels==2.1.5
 channels-redis==2.3.2
 constantly==15.1.0
+dependabot/pip/src/cryptography-3.3.2
+cryptography==3.3.2
 cryptography==3.2
 daphne==2.4.1
 Django==2.2.27
